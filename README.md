@@ -10,39 +10,35 @@
   <li>Proyek: Sistem Kuis</li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua: <a href="">Sheva Nahdif Gazzauhar</a></li>
+    <li>Ketua: <a href="https://github.com/nadhifsheva">Sheva Nahdif Gazzauhar</a></li>
     <li>Anggota 1: Syifa </a></li>
-    <li>Anggota 2: Deniera Rafiu Farras Hady</a></li>
+    <li>Anggota 2: Hilmi Rizki Akbar</a></li>
   </ul>
 </ul>
 
 ## Judul Proyek
-<p>Sistem Bioskop</p>
+<p>Sistem Kuis</p>
 
 ## Penjelasan Proyek
 <p>Jadi proyek yang kami kerjakan ini berisi dengan spesifikasi awal : </p>
 <ul>
   <li>Peserta</li>
-  <li>Film</li>
-  <li>Pemilihan Kursi yang beblum dipesan</li>
-  <li>Transaksi</li>
-  <li>Tiket</li>
+  <li>Kategori Soal</li>
+  <li>Soal Dan Kunci Jawaban</li>
+  <li>Jawaban Peserta</li>
+  <li>Nilai Pesetra</li>
+  <li>Riwayat Permainan</li>
 </ul>
 
 <p>Dan ketika program dijalankan akan langsung ditampilkan 3 Menu sekaligus, yaitu :</p>
 <ul>
-  <li>Pemesanan tiket film</li>
+  <li>Kuis Kita Juara</li>
   <p>Dimenu ini menampilkan beberapa fitur : </p>
   <ul>
-    <li>Menampilkan informasi mengenai film yang sedang tanyang</li>
-    <li>Menampilkan pemesanan tiket bioskop</li>
-    <li>Pemilihan kursi bioskop</li>
-    <li>Transaksi</li>
-    <li>Tiket</li>
+    <li>Mulai Permainan</li>
+    <li>Riwayat Permainan</li>
+    <li>Lihat Peringkat</li>
   </ul>
-  <p></p>
-  <li>Pengecekan kursi kosong</li>
-  <p>Dimenu ini hanya menampilkan informasi kursi yang sudah maupun belum dipesan sesuai judul dan jam dari film</p>
   <li>Keluar</li>
   <p>Jika memilih menu ini program akan berakhir</p>
 </ul>
@@ -52,17 +48,17 @@
 <ul>
   <li>Record : digunakan untuk membuat struktur data yang merepresentasikan informasi film.</li>
   <li>Array : digunakan untuk menyimpan dan mengelola data film, dan kursi pada setiap film dan jam tayang.</li>
-  <li>Queue : digunakan untuk menyimpan informasi tiket setiap kali pengguna memilih kursi.</li>
-  <li>LinkedList : digunakan untuk implementasi struktur data antrian (Queue). </li>
+  <li>LinkedList : digunakan untuk menyimpan informasi tiket setiap kali pengguna memilih kursi.</li>
+  <li>Sorting : digunakan untuk implementasi struktur data antrian (Queue). </li>
   <li>Searching : digunakan untuk menamplkan data kursi yang sudah maupun belum di pesan.</li>
 </ul>
 
 ## Pembagian Tim
 <p>Pembagian kerja kodigannya : </p>
 <ul>
-  <li>Daniel : Array kursi,Queue dan Linked List</li>
-  <li>Valent : Searching</li>
-  <li>Deniera : Record, Array film</li>
+  <li>Daniel : Searching, Sorting</li>
+  <li>Valent : Array, Record</li>
+  <li>Deniera : LinkedList</li>
 </ul>
 
 ## Demo Proyek
