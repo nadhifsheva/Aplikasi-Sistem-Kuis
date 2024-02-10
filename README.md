@@ -56,13 +56,13 @@
 ## Pembagian Tim
 <p>Pembagian kerja kodigannya : </p>
 <ul>
-  <li>Daniel : Searching, Sorting</li>
-  <li>Valent : Array, Record</li>
-  <li>Deniera : LinkedList</li>
+  <li>Sheva : Searching, Sorting</li>
+  <li>Syifa: Array, Record</li>
+  <li>Hilmi : LinkedList</li>
 </ul>
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/danzwel/FinalProyekSturkturData-Bioskop-/tree/main/src/strukturdata_bioskop">Github</a></li>
+  <li>Github: <a href="https://github.com/nadhifsheva/Aplikasi-Sistem-Kuis/blob/main/Kuis_SD.java">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
