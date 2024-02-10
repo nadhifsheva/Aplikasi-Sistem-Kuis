@@ -10,7 +10,7 @@
   <li>Proyek: Sistem Kuis</li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua: <a href="https://github.com/danzwel">Sheva Nahdif Gazzauhar</a></li>
+    <li>Ketua: <a href="">Sheva Nahdif Gazzauhar</a></li>
     <li>Anggota 1: Syifa </a></li>
     <li>Anggota 2: Deniera Rafiu Farras Hady</a></li>
   </ul>
