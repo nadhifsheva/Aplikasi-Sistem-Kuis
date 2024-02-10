@@ -11,7 +11,7 @@
   <li>Anggota:</li>
   <ul>
     <li>Ketua: <a href="https://github.com/nadhifsheva">Sheva Nahdif Gazzauhar</a></li>
-    <li>Anggota 1: Syifa </a></li>
+    <li>Anggota 1: Syifa Aulia Fitri</a></li>
     <li>Anggota 2: Hilmi Rizki Akbar</a></li>
   </ul>
 </ul>
