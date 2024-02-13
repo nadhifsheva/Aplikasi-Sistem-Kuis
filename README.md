@@ -64,5 +64,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/nadhifsheva/Aplikasi-Sistem-Kuis/blob/main/Kuis_SD.java">Github</a></li>
-  <li>Youtube: <a href="https://youtu.be/RhQxOZXdrPI">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/jvbk1_UzvZg">Youtube</a></li>
 </ul>
