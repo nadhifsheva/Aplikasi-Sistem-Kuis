@@ -46,11 +46,11 @@
 ## Komponen Proyek
 <p>Komponen komponen yang kami gunakan sebagai berikut :</p>
 <ul>
-  <li>Record : digunakan untuk membuat struktur data yang merepresentasikan informasi film.</li>
-  <li>Array : digunakan untuk menyimpan dan mengelola data film, dan kursi pada setiap film dan jam tayang.</li>
-  <li>LinkedList : digunakan untuk menyimpan informasi tiket setiap kali pengguna memilih kursi.</li>
-  <li>Sorting : digunakan untuk implementasi struktur data antrian (Queue). </li>
-  <li>Searching : digunakan untuk menamplkan data kursi yang sudah maupun belum di pesan.</li>
+  <li>Record : Record digunakan sebagai struktur data untuk merepresentasikan entitas seperti Player, Soal, dan Koreksi. Record memudahkan pengelolaan data karena menyediakan cara yang mudah untuk membuat objek data dengan properti-propertinya.</li>
+  <li>Array : Array digunakan untuk menyimpan daftar pertanyaan pada setiap tingkat kesulitan (easy, medium, hard). Contohnya, dalam metode PertanyaanEasy(), sebuah array soal digunakan untuk menyimpan pertanyaan-pertanyaan pada tingkat kesulitan easy.</li>
+  <li>LinkedList : LinkedList digunakan untuk menyimpan riwayat permainan pemain. Saat pemain selesai bermain, data pemain akan dimasukkan ke dalam LinkedList LPlayer.</li>
+  <li>Sorting : Sorting digunakan untuk mengurutkan pemain berdasarkan skor tertinggi. Misalnya, dalam metode Peringkat(), setelah skor pemain dihitung, pemain-pemain akan diurutkan berdasarkan skor mereka. </li>
+  <li>Searching : Searching digunakan untuk mencari riwayat permainan pemain berdasarkan nama pemain. Dalam metode Riwayat(), pengguna diberi opsi untuk mencari riwayat permainan pemain dengan memasukkan nama. Kemudian, pencarian dilakukan di dalam LinkedList LPlayer dan ArrayList Cek.</li>
 </ul>
 
 ## Pembagian Tim
@@ -64,5 +64,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/nadhifsheva/Aplikasi-Sistem-Kuis/blob/main/Kuis_SD.java">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/RhQxOZXdrPI">Youtube</a></li>
 </ul>
